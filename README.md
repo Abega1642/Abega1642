@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abega1642
-- 👀 I’m interested in Music, Mathematics, Physics, Informatics, Philosophy and arts
-- 🌱 I’m currently learning Mathematics and Informatics
+- 👀 I’m interested in Mathematics,Theoretical Physics, Informatics, Philosophy, Musics and arts
+- 🌱 I’m currently learning Mathematics, physics and Informatics
 - 💞️ I’m looking to collaborate on Mathematics, physics and informatics
 - 📫 How to reach me : a.razafindratelo@gmail.com
 
