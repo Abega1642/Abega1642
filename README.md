@@ -12,6 +12,21 @@ I'm a passionate learner and a curious explorer of:
 ### 🌱 Currently Learning  
 I'm diving deep into the realms of **Mathematics**(Algebra, analysis, geometry, probability, statistic), **Physics**(mechanics ...all kinds), and **Computer Science**(Backend, AI) at an advanced academic level, while expanding my horizons through challenging projects and research.  
 
+### 🏆 GitHub Stats  
+
+![Abega1642's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=radical&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=compact&theme=radical)  
+
+---
+
+### 🔥 Contributions  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abega1642&theme=radical)  
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abega1642&theme=radical)  
+
+---
+
+
 ### 💡 Looking to Collaborate  
 I'm always open to collaboration on the exciting topics mentioned above! Let's create something amazing together.
 Let's change the world !
