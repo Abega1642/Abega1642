@@ -10,19 +10,22 @@ I'm a passionate learner and a curious explorer of:
 - 🎵 **Music and Arts**  
 
 ### 🌱 Currently Learning  
-I'm diving deep into the realms of **Mathematics**, **Physics**, and **Computer Science** at an advanced academic level, while expanding my horizons through challenging projects and research.  
+I'm diving deep into the realms of **Mathematics**(Algebra, analysis, geometry, probability, statistic), **Physics**(mechanics ...all kinds), and **Computer Science**(Backend, AI) at an advanced academic level, while expanding my horizons through challenging projects and research.  
 
 ### 💡 Looking to Collaborate  
-I'm always open to collaboration on the exciting topics mentioned above! Let's create something amazing together.  
+I'm always open to collaboration on the exciting topics mentioned above! Let's create something amazing together.
+Let's change the world !
 
 ### 📫 Get in Touch  
 Feel free to reach out to me:  
 - **Email:** [a.razafindratelo@gmail.com](mailto:a.razafindratelo@gmail.com) | [hei.abega.2@gmail.com](mailto:hei.abega.2@gmail.com)  
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/abeg%C3%A0-razafindratelo)(#) *(optional)*  
+- **LinkedIn:** [Abegà Razafindratelo](https://www.linkedin.com/in/abegà-razafindratelo)
+- **Facebook:** [Abegà Razafindratelo](https://www.facebook.com/a.razafindratelo/)
 
 ---  
-> *"Exploration is the essence of the human spirit."* ✨  
-
+> *"Wir müssen wissen. Wir werden wissen."* ✨  
+> *"Nothing big is done without pain."*✨
+> *"Create your-self."*✨
 <!---  
 Abega1642/Abega1642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 You can click the Preview link to take a look at your changes.  
