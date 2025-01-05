@@ -18,7 +18,7 @@ I'm always open to collaboration on the exciting topics mentioned above! Let's c
 ### 📫 Get in Touch  
 Feel free to reach out to me:  
 - **Email:** [a.razafindratelo@gmail.com](mailto:a.razafindratelo@gmail.com) | [hei.abega.2@gmail.com](mailto:hei.abega.2@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](#) *(optional)*  
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/abeg%C3%A0-razafindratelo)(#) *(optional)*  
 
 ---  
 > *"Exploration is the essence of the human spirit."* ✨  
