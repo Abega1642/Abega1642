@@ -28,17 +28,6 @@ I'm diving deep into the realms of **Mathematics** (Algebra, analysis, geometry,
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Abega1642&theme=radical)  
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abega1642&theme=radical)  
 
----
-
-### 🐍 Contribution Snake  
-
-![GitHub Contribution Snake](https://github.com/Abega1642/Abega1642/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-### 🎯 Visitor Count  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Abega1642&color=blue&style=flat-square)  
 
 ---
 
