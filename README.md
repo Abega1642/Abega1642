@@ -24,8 +24,8 @@ Feel free to reach out to me:
 
 ---  
 > *"Wir müssen wissen. Wir werden wissen."* ✨  
-> *"Nothing big is done without pain."*✨
-> *"Create your-self."*✨
+> *"Nothing big is done without pain."*  ✨
+> *"Create your-self."*  ✨
 <!---  
 Abega1642/Abega1642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 You can click the Preview link to take a look at your changes.  
