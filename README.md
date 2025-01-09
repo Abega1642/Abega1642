@@ -23,7 +23,7 @@ I'm diving deep into the realms of **Mathematics** (Algebra, analysis, geometry,
 
 ---
 
-### 🔥 Contributions  
+### 🔥 Trophies  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abega1642&theme=onedark)](https://github.com/Abega1642/github-profile-trophy)
 
