@@ -24,9 +24,10 @@ I'm diving deep into the realms of **Mathematics** (Algebra, analysis, geometry,
 ---
 
 ### 🔥 Contributions  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=radical)  
+  
 [Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abega1642&theme=radical&hide_border=true&color=blue)
+[![3D Contribution Graph](https://skyline.github.com/Abega1642/2024)](https://skyline.github.com/Abega1642/2024)
+
 
 
 ---
