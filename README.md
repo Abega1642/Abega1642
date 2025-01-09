@@ -26,7 +26,7 @@ I'm diving deep into the realms of **Mathematics** (Algebra, analysis, geometry,
 ### 🔥 Contributions  
   
 [Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abega1642&theme=radical&hide_border=true&color=blue)
-[![3D Contribution Graph](https://skyline.github.com/Abega1642/2024)](https://skyline.github.com/Abega1642/2024)
+[![3D Contribution Graph](https://skyline.github.com/Abega1642/2025)](https://skyline.github.com/Abega1642/2025)
 
 
 
