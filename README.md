@@ -25,7 +25,7 @@ I'm diving deep into the realms of **Mathematics** (Algebra, analysis, geometry,
 
 ### 🔥 Contributions  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abega1642&theme=gruvbox&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abega1642)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
