@@ -1,6 +1,14 @@
 # 🧠 "Wir müssen wissen. Wir werden wissen."  
 
-## 👋 Hi there! I'm `Abega1642`  
+<br/>
+
+<h1 align="center">
+	<a href="https://git.io/typing.svg">
+		<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Abega1642!;"/>
+	</a>
+</h1> 
+
+<br/>
 
 ### 🧑‍💻 About Me  
 I'm a passionate learner and a curious explorer of:  
@@ -29,11 +37,18 @@ All while working on challenging projects and engaging in research.
 ![Abega1642's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=radical&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=compact&theme=radical)  
 
-### 🔥 Trophies  
+<h2 align="center">🚀 Languages, Frameworks & Tools 🚀</h2>
+<div align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,postgresql" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=spring,react,next,html,css" />
+    <br/>
+		<img src="https://skillicons.dev/icons?i=github,git,linux,docker,postman" />
+	</a>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abega1642&theme=onedark)](https://github.com/Abega1642/github-profile-trophy)  
 
----
 
 ## ✨ Inspiration  
 
