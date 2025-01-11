@@ -1,4 +1,4 @@
-# 🧠 "Wir müssen wissen. Wir werden wissen."  
+<h1 align="center">🧠 "Wir müssen wissen. Wir werden wissen."</h1>  
 
 <br/>
 
