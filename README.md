@@ -40,11 +40,13 @@ All while working on challenging projects and engaging in research.
 <h2 align="center">🚀 Languages, Frameworks & Tools 🚀</h2>
 <div align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,postgresql" />
+		<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,postgresql" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=spring,react,next,html,css" />
+    		<img src="https://skillicons.dev/icons?i=spring,react,next,html,css" />
     <br/>
-		<img src="https://skillicons.dev/icons?i=github,git,linux,docker,postman" />
+		<img src="https://skillicons.dev/icons?i=github,git,nodejs,linux,debian,docker,postman,aws" />
+	<br/>
+		<img src="https://skillicons.dev/icons?i=clion,idea,pycharm,vscode" />
 	</a>
 </div>
 
