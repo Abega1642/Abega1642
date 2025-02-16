@@ -2,13 +2,18 @@
 
 <br/>
 
-<h1 align="center">
-	<a href="https://git.io/typing.svg">
-		<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Abega1642!;"/>
-	</a>
-</h1> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welome+to+my+Github!&size=30&center=true&width=600&color=00FF00&duraion=5000&pause=1500&font=Fira%20Code">
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Abegà+Razafindratelo&size=30&center=true&width=600&color=00FF00&pause=3000&font=Fira%20Code">
+</p>
+
+
+
+
+
 
 ### 🧑‍💻 About Me  
 I'm a passionate learner and a curious explorer of:  
