@@ -32,10 +32,17 @@ All while working on challenging projects and engaging in research.
 
 ## 📈 GitHub Overview  
 
-### 🏆 Stats  
+### 🏆 Stats 
 
-![Abega1642's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=radical&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=compact&theme=radical)  
+![Abega1642's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=pie&theme=tokyonight&langs_count=10)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abega1642&theme=radical)
+
+
+
+
 
 <h2 align="center">🚀 Languages, Frameworks & Tools 🚀</h2>
 <div align="center">
