@@ -63,20 +63,19 @@ These awards reflect my deep engagement with **pure mathematics**, logical probl
 
 
 ---
+## 📈 GitHub Overview
 
-## 📈 GitHub Overview  
+### 🏆 Stats
 
-### 🏆 Stats 
-
-![Abega1642's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=pie&theme=tokyonight&langs_count=10)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abega1642&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=pie&theme=tokyonight&langs_count=10" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abega1642&theme=radical" height="180"/>
+</p>
 
 
 
+---
 
 <h2 align="center">🚀 Languages, Frameworks & Tools 🚀</h2>
 <div align="center">
