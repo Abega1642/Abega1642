@@ -29,37 +29,82 @@
 
 ---
 
+---
+
 ## 📜 Certifications & Distinctions
 
 ### 💻 Java Programming Certifications
 
-I have earned multiple certifications to validate and strengthen my backend development skills in Java:
+<table>
+  <tr>
+    <td>
+	<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/workflow.png" alt="workflow"/> </td>
+    <td>
+      <strong>Java Certification (With Honors) – CodinGame</strong><br/>
+      Assessed through algorithmic coding challenges under time pressure.  
+      Scored among top candidates. 
+	    
+   🔗 <a href="https://www.codingame.com/certification/uNlgJdeGtKeniiiIkyBHKQ">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629972-3032320.png" width="40"/></td>
+    <td>
+      <strong>Java Skills Certification – HackerRank</strong><br/>
+      Validated Java proficiency through a technical skills assessment.  
 
-- 🧠 **Java Skills Certification – HackerRank**  
-  Validated Java proficiency through a technical skills assessment.  
-  🔗 [View certificate](https://www.hackerrank.com/certificates/60d36284b76b)
+     
+   🔗 <a href="https://www.hackerrank.com/certificates/60d36284b76b">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/simple-icons/sololearn.svg" width="30"/></td>
+    <td>
+      <strong>Java Intermediate – SoloLearn</strong><br/>
+      Focused on OOP and algorithmic thinking. 
+	    
+   🔗 <a href="https://www.sololearn.com/certificates/CC-1W24QWTM">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td><img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/genealogy.png" alt="genealogy"/></td>
+    <td>
+      <strong>Java Programming Foundation – StudySection</strong><br/>
+      Scored 83.33% on core Java programming principles.  
+      *(Available upon request in PDF)*
+    </td>
+  </tr>
+</table>
 
-- 🧩 **Java Intermediate Certification – SoloLearn**  
-  Focused on object-oriented programming and algorithmic thinking.  
-  🔗 [View certificate](https://www.sololearn.com/certificates/CC-1W24QWTM)
-
-- 🧪 **Java Programming (Foundation) – StudySection**  
-  Scored **83.33%** on foundational Java programming concepts.  
-  *(Available upon request in PDF)*
 
 These certifications confirm my technical expertise in **Java development**, with a focus on clean architecture, modular design, and backend logic.
 
 ---
 
-### 📐 Mathematical Achievements
+---
 
-- 🏅 **Silver Honor & National Award – International Youth Math Challenge 2023**  
-  Recognized among the top participants worldwide and awarded the **National Award of Madagascar**.
+## 📐 Mathematical Achievements
 
-- 🥈 **Silver Honor – International Youth Math Challenge 2022**  
-  Earned distinction for high performance in problem-solving, logic, and mathematical reasoning.
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/medal.png" width="40" alt="Silver Honor 2023"/></td>
+    <td>
+      <strong>Silver Honor & National Award – International Youth Math Challenge 2023</strong><br/>
+      Recognized among the top participants worldwide and awarded the <strong>National Award of Madagascar</strong> for mathematical excellence.
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/medal-second-place.png" width="40" alt="Silver Honor 2022"/></td>
+    <td>
+      <strong>Silver Honor – International Youth Math Challenge 2022</strong><br/>
+      Earned distinction for outstanding performance in problem-solving, logic, and mathematical reasoning.
+    </td>
+  </tr>
+</table>
 
-These awards reflect my deep engagement with **pure mathematics**, logical problem solving, and my ability to tackle abstract challenges with rigor and creativity.
+<p>
+  These international awards reflect my deep engagement with <strong>pure mathematics</strong>, my capacity for <strong>logical problem solving</strong>, and my ability to tackle abstract challenges with <strong>rigor and creativity</strong>.
+</p>
 
 
 ---
@@ -103,29 +148,40 @@ These awards reflect my deep engagement with **pure mathematics**, logical probl
 
 
 
-## ✨ Inspiration  
+---
 
-> *"Wir müssen wissen. Wir werden wissen."* ✨  
-> *"Nothing big is done without pain."* ✨  
-> *"Create yourself."* ✨  
+<h2 align="center">✨ Inspiration & Philosophy ✨</h2>
 
+<blockquote align="center">
+  <em>"Wir müssen wissen. Wir werden wissen."</em><br/>
+  <em>"Nothing big is done without pain."</em><br/>
+  <em>"Create yourself."</em>
+</blockquote>
 
 ---
 
-## 💡 Let's Collaborate  
-I'm always open to collaborating on the exciting topics listed above.  
-Together, we can create something amazing and contribute to shaping a better world!  
+<h2 align="center">🤝 Let's Collaborate</h2>
+
+<p align="center">
+  I'm always open to collaborating on exciting challenges in <strong>backend development</strong>, <strong>algorithmic thinking</strong>, and <strong>pure mathematics</strong>.<br/>
+  Let's connect and build something meaningful together — from code to concept!
+</p>
 
 ---
 
-## 📫 Get in Touch  
-Feel free to connect with me:  
-- **Email:**  
-  [a.razafindratelo@gmail.com](mailto:a.razafindratelo@gmail.com) | [hei.abega.2@gmail.com](mailto:hei.abega.2@gmail.com)  
-- **LinkedIn:**  
-  [Abegà Razafindratelo](https://www.linkedin.com/in/abegà-razafindratelo)  
-- **Facebook:**  
-  [Abegà Razafindratelo](https://www.facebook.com/a.razafindratelo/)  
+<h2 align="center">📫 Get in Touch</h2>
+
+<p align="center">
+  <strong>Email:</strong><br/>
+  <a href="mailto:a.razafindratelo@gmail.com">a.razafindratelo@gmail.com</a> | <a href="mailto:hei.abega.2@gmail.com">hei.abega.2@gmail.com</a><br/><br/>
+  
+  <strong>LinkedIn:</strong><br/>
+  <a href="https://www.linkedin.com/in/abegà-razafindratelo">Abegà Razafindratelo</a><br/><br/>
+
+  <strong>Facebook:</strong><br/>
+  <a href="https://www.facebook.com/a.razafindratelo/">Abegà Razafindratelo</a>
+</p>
+
 
 ---
 
