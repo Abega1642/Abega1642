@@ -16,22 +16,51 @@
 
 
 ### 🧑‍💻 About Me  
-I'm a passionate learner and a curious explorer of:  
-- 📊 **Pure Mathematics**  
-- 🌌 **Theoretical Physics**  
-- 💻 **Computer Science**  
-- 📖 **Philosophy**  
-- 🎵 **Music and Arts**  
+<p>
+  🎓 I am a dual-degree student in Mathematics and Computer Science, with a strong focus on backend development and algorithmic thinking.  
+</p>
+<p>
+  💡 Passionate about logic, structure and performance, I build robust backend systems using Java, Spring Boot, and PostgreSQL, and explore deep mathematical theories to enhance my technical reasoning.
+</p>
+<p>
+  🚀 I strive to bridge theoretical depth with practical efficiency, constantly learning and pushing the boundaries of what I can design, model and build.
+</p>
+
 
 ---
 
-### 🌱 Currently Learning  
-I'm diving deep into:  
-- 🧮 **Mathematics** (Algebra, Analysis, Geometry, Probability, Statistics)  
-- ⚙️ **Physics** (Mechanics of all kinds)  
-- 💻 **Computer Science** (Backend Development, AI)  
+## 📜 Certifications & Distinctions
 
-All while working on challenging projects and engaging in research.
+### 💻 Java Programming Certifications
+
+I have earned multiple certifications to validate and strengthen my backend development skills in Java:
+
+- 🧠 **Java Skills Certification – HackerRank**  
+  Validated Java proficiency through a technical skills assessment.  
+  🔗 [View certificate](https://www.hackerrank.com/certificates/60d36284b76b)
+
+- 🧩 **Java Intermediate Certification – SoloLearn**  
+  Focused on object-oriented programming and algorithmic thinking.  
+  🔗 [View certificate](https://www.sololearn.com/certificates/CC-1W24QWTM)
+
+- 🧪 **Java Programming (Foundation) – StudySection**  
+  Scored **83.33%** on foundational Java programming concepts.  
+  *(Available upon request in PDF)*
+
+These certifications confirm my technical expertise in **Java development**, with a focus on clean architecture, modular design, and backend logic.
+
+---
+
+### 📐 Mathematical Achievements
+
+- 🏅 **Silver Honor & National Award – International Youth Math Challenge 2023**  
+  Recognized among the top participants worldwide and awarded the **National Award of Madagascar**.
+
+- 🥈 **Silver Honor – International Youth Math Challenge 2022**  
+  Earned distinction for high performance in problem-solving, logic, and mathematical reasoning.
+
+These awards reflect my deep engagement with **pure mathematics**, logical problem solving, and my ability to tackle abstract challenges with rigor and creativity.
+
 
 ---
 
