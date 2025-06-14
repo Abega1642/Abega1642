@@ -29,8 +29,6 @@
 
 ---
 
----
-
 ## 📜 Certifications & Distinctions
 
 ### 💻 Java Programming Certifications
@@ -78,8 +76,6 @@
 
 
 These certifications confirm my technical expertise in **Java development**, with a focus on clean architecture, modular design, and backend logic.
-
----
 
 ---
 
