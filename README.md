@@ -10,6 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Abega+Razafindratelo&size=30&center=true&width=600&color=00FF00&pause=3000&font=Fira%20Code&repeat=false">
 </p>
 
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=abega164&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 ### 🧑‍💻 About Me  
 <p>
@@ -174,7 +177,7 @@ These certifications confirm my technical expertise in **Java development**, wit
   <a href="https://www.facebook.com/a.razafindratelo/">Abegà Razafindratelo</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abega164&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+
 
 ---
 
