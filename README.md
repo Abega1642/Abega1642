@@ -11,10 +11,6 @@
 </p>
 
 
-
-
-
-
 ### 🧑‍💻 About Me  
 <p>
   🎓 I am a dual-degree student in Mathematics and Computer Science, with a strong focus on backend development and algorithmic thinking.  
@@ -178,6 +174,7 @@ These certifications confirm my technical expertise in **Java development**, wit
   <a href="https://www.facebook.com/a.razafindratelo/">Abegà Razafindratelo</a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abega164&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
 ---
 
