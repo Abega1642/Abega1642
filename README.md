@@ -107,11 +107,9 @@ These certifications confirm my technical expertise in **Java development**, wit
 
 ### 🏆 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=pie&theme=tokyonight&langs_count=10" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abega1642&theme=radical" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=tokyonight" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=pie&theme=tokyonight&langs_count=10" height="450"/>
+
 
 
 
@@ -166,7 +164,7 @@ These certifications confirm my technical expertise in **Java development**, wit
 
 <h2 align="center">📫 Get in Touch</h2>
 
-<p align="center">
+<p>
   <strong>Email:</strong><br/>
   <a href="mailto:a.razafindratelo@gmail.com">a.razafindratelo@gmail.com</a> | <a href="mailto:hei.abega.2@gmail.com">hei.abega.2@gmail.com</a><br/><br/>
   
