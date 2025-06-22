@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me  
 <p>
-  🎓 I am a dual-degree student in Mathematics and Computer Science, with a strong focus on backend development and algorithmic thinking.  
+  🎓 I am a dual-degree student in Mathematics and Computer Science, with a strong focus on backend development and algorithmic thinking but also on philosophy.
 </p>
 <p>
   💡 Passionate about logic, structure and performance, I build robust backend systems using Java, Spring Boot, and PostgreSQL, and explore deep mathematical theories to enhance my technical reasoning.
