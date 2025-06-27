@@ -107,7 +107,7 @@ These certifications confirm my technical expertise in **Java development**, wit
 
 ### 🏆 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=tokyonight" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abega1642&show_icons=true&theme=tokyonight" height="250"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=pie&theme=tokyonight&langs_count=10" height="450"/>
 
 
