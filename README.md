@@ -111,8 +111,6 @@ These certifications confirm my technical expertise in **Java development**, wit
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abega1642&layout=pie&theme=tokyonight&langs_count=10" height="450"/>
 
 
-
-
 ---
 
 <h2 align="center">🚀 Languages, Frameworks & Tools 🚀</h2>
@@ -138,7 +136,6 @@ These certifications confirm my technical expertise in **Java development**, wit
         </picture>
     </a>
 </p>
-
 
 
 ---
@@ -174,7 +171,6 @@ These certifications confirm my technical expertise in **Java development**, wit
   <strong>Facebook:</strong><br/>
   <a href="https://www.facebook.com/a.razafindratelo/">Abegà Razafindratelo</a>
 </p>
-
 
 
 ---
