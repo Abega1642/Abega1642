@@ -54,9 +54,9 @@
 | [![Java OOP](https://img.shields.io/badge/Java-Intermediate-1ABC9C?style=flat-square&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-1W24QWTM) | SoloLearn | 🥈 Completed | OOP & Algorithms |
 | [![Java Foundation](https://img.shields.io/badge/Java-Foundation_(83.33%)-FF6B6B?style=flat-square&logo=java&logoColor=white)]() | StudySection | 📊 Excellent | Core Principles |
 | [![Pandas Mastery](https://img.shields.io/badge/Pandas-Mastery-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/pandas) | Kaggle | 🐼 Certified | Data Analysis |
-| [![Docker Expert](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white)](https://codesignal.com/learn/certificates/cmbb3lrmz000ak104qf22wlid/courses/631) | CodeSignal | 🐳 Triple Certified | Containerization |
+| [![Docker Expert](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white)](https://drive.google.com/drive/folders/1SNceOnJ24znLNjcHO446qyjo08QkKLYv?usp=drive_link) | CodeSignal | 🐳 Triple Certified | Containerization |
 | [![Machine Learning](https://img.shields.io/badge/ML-Intermediate-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/intermediate-machine-learning) | Kaggle | 🤖 Certified | Machine Learning |
-| [![C++ OOP](https://img.shields.io/badge/C++-OOP_Course-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]() | Codefinity | ✅ Completed | Object-Oriented Programming |
+| [![C++ OOP](https://img.shields.io/badge/C++-OOP_Course-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://drive.google.com/file/d/1RrlqNXUh9MX6uOTUpWGZQS1B2d1n8dv4/view?usp=drive_link) | Codefinity | ✅ Completed | Object-Oriented Programming |
 
 </div>
 
@@ -66,20 +66,62 @@
 
 | Achievement | Competition | Year | Recognition |
 |:-----------:|:-----------:|:----:|:-----------:|
-| [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-FFD700?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=sharing) | International Youth Math Challenge | 2023 | 🥈 Silver Honor & 🇲🇬 National Award |
-| [![IYMC 2022](https://img.shields.io/badge/IYMC-2022_Silver_Honor-C0C0C0?style=flat-square&logo=mathematics&logoColor=black)]() | International Youth Math Challenge | 2022 | 🥈 Silver Honor |
+| [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-FFD700?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1m_WmGCfXViMGUjvEdnsqX3qIVKvQN74L/view?usp=drive_link) | International Youth Math Challenge | 2023 | 🥈 Silver Honor & 🇲🇬 National Award |
+| [![IYMC 2022](https://img.shields.io/badge/IYMC-2022_Silver_Honor-C0C0C0?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link) | International Youth Math Challenge | 2022 | 🥈 Silver Honor |
 
 </div>
 
 <br/>
+
+---
+
+## 🖼️ Certificates Showcase
 
 <div align="center">
 
-[![All Certifications](https://img.shields.io/badge/📜-View_All_Certifications-8A2BE2?style=for-the-badge&logo=certificate&logoColor=white)](https://github.com/Abega1642)
+### 🇲🇬 National Award – Madagascar
+<img src="assets/iymc-silver-honor.png" alt="National Award Madagascar" width="600"/>
+
+<br/><br/>
+
+### 🥈 Silver Honor – IYMC
+<img src="assets/national-award-madagascar.png" alt="IYMC Silver Honor" width="600"/>
 
 </div>
 
+---
+
+## 🎓 Academic Distinction
+
+<div align="center">
+
+### 🥇 Valedictorian — Mathematics (2023–2024)
+**University of Antananarivo, Department of Mathematics and Computer Science — _With Distinction_**
+
+<img src="assets/valedictorian-photo-by-aemia.jpg" alt="Valedictorian 2023-2024" width="600"/>
+
 <br/>
+
+**Achievement:**  
+In my first year studying Mathematics at the University of Antananarivo, I pursued a second program simultaneously in Computer Science at Haute École d’Informatique. Among ~300 students, I earned the **highest overall grade across both semesters**, being recognized as **Valedictorian with Distinction** (December 2024). This reflects strong academic performance across two rigorous programs.
+
+<br/>
+
+[![Official Announcement](https://img.shields.io/badge/📢-Official_Announcement-00FF00?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aemia.antananarivo/posts/pfbid07CmJeWnDSmaruPQSLXuRuop7E2HvAzgAEo5BBCGKpeRYLFCDRYBs6E25pZQwownCl?rdid=wsoN0ocOBsEPiyjN)
+
+<br/><br/>
+
+### 🎓 Excellence Scholarship — Top Performer in Entrance Exam (Oct 2023)
+**Haute École d’Informatique (HEI)**
+
+**Achievement:**  
+The Computer Science program at Haute École d’Informatique requires a competitive entrance exam. I achieved the **highest score among all candidates**, earning the **Excellence Scholarship**, which covers full tuition for the academic year. This award recognizes exceptional academic potential and top performance in a highly selective process.
+
+<br/>
+
+[![Official Announcement](https://img.shields.io/badge/📢-Official_Announcement-00FF00?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/p/17aVV1DqpV/)
+
+</div>
 
 ---
 
@@ -138,34 +180,30 @@
 
 ---
 
-## 🤝 Collaboration & Contact
+## 🤝 Let's Collaborate & Connect
 
 <div align="center">
 
-### 🚀 **Let's Build Together!**
+### 🚀 Collaboration Opportunities
 
-[![Backend Projects](https://img.shields.io/badge/🚀-Backend_Development_&_System_Architecture-00FF00?style=for-the-badge&logo=server&logoColor=white)](https://github.com/Abega1642)
-[![Algorithmic Challenges](https://img.shields.io/badge/🧠-Algorithmic_Challenges_&_Mathematical_Modeling-8A2BE2?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/Abega1642)
-[![Open Source](https://img.shields.io/badge/💻-Open_Source_Contributions-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/Abega1642)
-
-<br/>
-
-### 📫 **Connect With Me**
-
-[![Email](https://img.shields.io/badge/Email-a.razafindratelo@gmail.com-00FF00?style=for-the-badge&logo=gmail)](mailto:a.razafindratelo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abega_Razafindratelo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abegà-razafindratelo)
-[![Facebook](https://img.shields.io/badge/Facebook-Abega_Razafindratelo-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/a.razafindratelo/)
-
-</div>
+[![Backend Projects](https://img.shields.io/badge/🚀-Backend_Development-00FF00?style=for-the-badge&logo=server&logoColor=white)](https://github.com/Abega1642)
+[![Algorithmic Challenges](https://img.shields.io/badge/🧠-Algorithms_&_Modeling-8A2BE2?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/Abega1642)
+[![Open Source](https://img.shields.io/badge/💻-Open_Source-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/Abega1642)
 
 <br/>
 
----
+### 📫 Connect With Me
 
-<div align="center">
+[![Email](https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.razafindratelo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abegà-razafindratelo)
+[![Facebook](https://img.shields.io/badge/📘-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/a.razafindratelo/)
 
-[![Quote](https://img.shields.io/badge/🌟-_From_abstract_mathematics_to_concrete_code_–_building_the_future_one_algorithm_at_a_time._-00FF00?style=for-the-badge&logo=stars&logoColor=white)](https://github.com/Abega1642)
+<br/>
 
-**⭐ Feel free to explore my repositories and get in touch!**
+### 🌟 Motto / Inspiration
+
+> *"From abstract mathematics to concrete code – building the future one algorithm at a time."*
+
+[![Explore Repositories](https://img.shields.io/badge/⭐-Explore_My_Repos-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abega1642)
 
 </div>
