@@ -67,7 +67,7 @@
 | Achievement | Competition | Year | Recognition |
 |:-----------:|:-----------:|:----:|:-----------:|
 | [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-FFD700?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1m_WmGCfXViMGUjvEdnsqX3qIVKvQN74L/view?usp=drive_link) | International Youth Math Challenge | 2023 | 🥈 Silver Honor & 🇲🇬 National Award |
-| [![IYMC 2022](https://img.shields.io/badge/IYMC-2022_Silver_Honor-C0C0C0?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link) | International Youth Math Challenge | 2022 | 🥈 Silver Honor |
+| [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-C0C0C0?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link) | International Youth Math Challenge | 2022 | 🥈 Silver Honor |
 
 </div>
 
@@ -79,13 +79,13 @@
 
 <div align="center">
 
-### 🇲🇬 National Award – Madagascar
-<img src="assets/iymc-silver-honor.png" alt="National Award Madagascar" width="600"/>
+### 🇲🇬 National Award of Madagascar, 2023 - International Youth Math Challenge
+<img src="assets/national-award-madagascar.png" alt="National Award Madagascar" width="600"/>
 
 <br/><br/>
 
-### 🥈 Silver Honor – IYMC
-<img src="assets/national-award-madagascar.png" alt="IYMC Silver Honor" width="600"/>
+### 🥈 Silver Honor – IYMC, 2023 - International Youth Math Challenge
+<img src="assets/iymc-silver-honor.png" alt="IYMC Silver Honor" width="600"/>
 
 </div>
 
