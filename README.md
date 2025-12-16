@@ -98,8 +98,6 @@
 ### 🥇 Valedictorian — Mathematics (2023–2024)
 **University of Antananarivo, Department of Mathematics and Computer Science — _With Distinction_**
 
-<img src="assets/valedictorian-photo-by-aemia.jpg" alt="Valedictorian 2023-2024" width="600"/>
-
 <br/>
 
 **Achievement:**  
