@@ -70,6 +70,7 @@
 
 | Achievement | Competition | Year | Recognition |
 |:-----------:|:-----------:|:----:|:-----------:|
+| [![GDG 2025](https://img.shields.io/badge/Hackathon DevFest 2025-FFD700?style=flat-square&logo=mathematics&logoColor=black)](https://www.linkedin.com/posts/abeg%C3%A0-razafindratelo_devfest-algomada-devfest-activity-7403757196502769664-SldB?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEwz3MIBawkW2UIdU5Joqofv5vwDWWtKxtA&utm_campaign=copy_link) | Hackathon DevFest | 2025 | 🥈 2nd Price |
 | [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-FFD700?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1m_WmGCfXViMGUjvEdnsqX3qIVKvQN74L/view?usp=drive_link) | International Youth Math Challenge | 2023 | 🥈 Silver Honor & 🇲🇬 National Award |
 | [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-C0C0C0?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link) | International Youth Math Challenge | 2022 | 🥈 Silver Honor |
 
