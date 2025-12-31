@@ -40,6 +40,17 @@
 <br/>
 
 ---
+<p align="center">
+  <img
+    src="assets/dev.razafindratelo.png"
+    alt="dev.razafindratelo - Abegà Razafindratelo groupId"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
+
+
+
+---
 
 <a href="https://gitroll.io/profile/upitmxgFpKBgm6GzqmtWxDd5NynC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/upitmxgFpKBgm6GzqmtWxDd5NynC2?theme=light" alt="GitRoll Profile Badge"/></a>
 
