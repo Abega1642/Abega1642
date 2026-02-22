@@ -11,86 +11,77 @@
 
 <br/>
 
-<!-- Profile Views -->
-[![Profile Views](https://komarev.com/ghpvc/?username=abega164&label=Profile%20views&color=00FF00&style=for-the-badge&logo=eye)](https://github.com/Abega1642)
 
-</div>
-
-<br/>
-
-## 🎯 About Me
 
 <div align="center">
 
-[![Dual Degree](https://img.shields.io/badge/🎓-Dual_Degree_Student-8A2BE2?style=for-the-badge&logo=book&logoColor=white)](https://github.com/Abega1642)
-[![Backend Developer](https://img.shields.io/badge/💻-Backend_Specialist-FF6B6B?style=for-the-badge&logo=server&logoColor=white)](https://github.com/Abega1642)
-[![Mathematician](https://img.shields.io/badge/🧮-Algorithmic_Thinker-4ECDC4?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/Abega1642)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:8A2BE2,100:0d1117&height=200&section=header&text=Abegà%20Razafindratelo&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Back-Ops%20Engineer%20%E2%80%94%20Mathematician&descSize=14&descAlignY=74&descColor=888888&stroke=8A2BE2&strokeWidth=1" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=false&width=620&lines=Bridging+theoretical+depth+with+practical+efficiency.;Architecting+robust+systems+from+first+principles.;Exploring+the+mathematical+foundations+of+computation.;Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Clean+Architecture.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-> *"I bridge theoretical depth with practical efficiency, building robust systems while exploring the fundamental nature of computation and logic."*
+<div align="center">
 
-- 🔭 **Currently**: Building backend systems with **Java, Spring Boot & PostgreSQL**
-- 🧠 **Passionate about**: Mathematical logic, clean architecture, and performance optimization
-- 🌱 **Learning**: Advanced algorithms and mathematical foundations
-- 🎯 **Mission**: Create elegant solutions to complex problems
+![Profile Views](https://komarev.com/ghpvc/?username=abega164&style=flat-square&color=8A2BE2&label=profile+views)
+
+</div>
 
 <br/>
 
----
-<p align="center">
-  <img
-    src="assets/dev.razafindratelo.png"
-    alt="dev.razafindratelo - Abegà Razafindratelo groupId"
-    style="max-width: 100%; height: auto;"
-  />
-</p>
-
-
-
----
 
 <a href="https://gitroll.io/profile/upitmxgFpKBgm6GzqmtWxDd5NynC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/upitmxgFpKBgm6GzqmtWxDd5NynC2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 ---
+## Certifications & Distinctions
 
-## 🏆 Certifications & Distinctions
+<br/>
 
-### 💻 Technical Excellence
+**Technical Certifications**
 
 <div align="center">
 
-| Certification | Platform | Status | Focus Area |
-|:-------------:|:--------:|:------:|:----------:|
-| [![Java Certification](https://img.shields.io/badge/Java-With_Honors-00FF00?style=flat-square&logo=java&logoColor=white)](https://www.codingame.com/certification/uNlgJdeGtKeniiiIkyBHKQ) | CodinGame | 🏅 Top Scorer | Algorithmic Challenges |
-| [![Java Skills](https://img.shields.io/badge/Java-Skills_Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/60d36284b76b) | HackerRank | ✅ Verified | Technical Proficiency |
-| [![Java OOP](https://img.shields.io/badge/Java-Intermediate-1ABC9C?style=flat-square&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-1W24QWTM) | SoloLearn | 🥈 Completed | OOP & Algorithms |
-| [![Java Foundation](https://img.shields.io/badge/Java-Foundation_(83.33%)-FF6B6B?style=flat-square&logo=java&logoColor=white)]() | StudySection | 📊 Excellent | Core Principles |
-| [![Pandas Mastery](https://img.shields.io/badge/Pandas-Mastery-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/pandas) | Kaggle | 🐼 Certified | Data Analysis |
-| [![Docker Expert](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white)](https://drive.google.com/drive/folders/1SNceOnJ24znLNjcHO446qyjo08QkKLYv?usp=drive_link) | CodeSignal | 🐳 Triple Certified | Containerization |
-| [![Machine Learning](https://img.shields.io/badge/ML-Intermediate-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/intermediate-machine-learning) | Kaggle | 🤖 Certified | Machine Learning |
-| [![C++ OOP](https://img.shields.io/badge/C++-OOP_Course-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://drive.google.com/file/d/1RrlqNXUh9MX6uOTUpWGZQS1B2d1n8dv4/view?usp=drive_link) | Codefinity | ✅ Completed | Object-Oriented Programming |
+[![CodinGame](https://img.shields.io/badge/CodinGame-Java_With_Honors-8A2BE2?style=flat-square&logo=codingame&logoColor=white)](https://www.codingame.com/certification/uNlgJdeGtKeniiiIkyBHKQ)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-Java_Skills_Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/60d36284b76b)
+&nbsp;
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-Java_Intermediate-1ABC9C?style=flat-square&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-1W24QWTM)
+
+[![StudySection](https://img.shields.io/badge/StudySection-Java_Foundation_83.33%25-FF6B6B?style=flat-square&logo=java&logoColor=white)](https://github.com/Abega1642)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-Pandas_Mastery-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/pandas)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-ML_Intermediate-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/intermediate-machine-learning)
+
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-Docker_Expert_(x3)-2496ED?style=flat-square&logo=docker&logoColor=white)](https://drive.google.com/drive/folders/1SNceOnJ24znLNjcHO446qyjo08QkKLYv?usp=drive_link)
+&nbsp;
+[![Codefinity](https://img.shields.io/badge/Codefinity-C%2B%2B_OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://drive.google.com/file/d/1RrlqNXUh9MX6uOTUpWGZQS1B2d1n8dv4/view?usp=drive_link)
 
 </div>
 
-### 🧮 Mathematical Achievements
+<br/>
+
+**Competitions & Awards**
 
 <div align="center">
 
-| Achievement | Competition | Year | Recognition |
-|:-----------:|:-----------:|:----:|:-----------:|
-| [![DevFest 2025](https://img.shields.io/badge/DevFest-2025_Hackathon-FFD700?style=flat-square&logo=mathematics&logoColor=black)](https://www.linkedin.com/posts/abeg%C3%A0-razafindratelo_devfest-algomada-devfest-activity-7403757196502769664-SldB?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEwz3MIBawkW2UIdU5Joqofv5vwDWWtKxtA&utm_campaign=copy_link) | Hackathon DevFest | 2025 | 🥈 2nd Price |
-| [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-FFD700?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1m_WmGCfXViMGUjvEdnsqX3qIVKvQN74L/view?usp=drive_link) | International Youth Math Challenge | 2023 | 🥈 Silver Honor & 🇲🇬 National Award |
-| [![IYMC 2023](https://img.shields.io/badge/IYMC-2023_Silver_Honor-C0C0C0?style=flat-square&logo=mathematics&logoColor=black)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link) | International Youth Math Challenge | 2022 | 🥈 Silver Honor |
+[![DevFest 2025](https://img.shields.io/badge/Hackathon_DevFest_2025-2nd_Place-FFD700?style=flat-square&logo=google&logoColor=black)](https://www.linkedin.com/posts/abeg%C3%A0-razafindratelo_devfest-algomada-devfest-activity-7403757196502769664-SldB?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEwz3MIBawkW2UIdU5Joqofv5vwDWWtKxtA&utm_campaign=copy_link)
+&nbsp;
+[![IYMC 2023](https://img.shields.io/badge/IYMC_2023-Silver_Honor_%2B_National_Award-C0C0C0?style=flat-square&logo=academia&logoColor=white)](https://drive.google.com/file/d/1m_WmGCfXViMGUjvEdnsqX3qIVKvQN74L/view?usp=drive_link)
+&nbsp;
+[![IYMC 2022](https://img.shields.io/badge/IYMC_2022-Silver_Honor-C0C0C0?style=flat-square&logo=academia&logoColor=white)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link)
 
 </div>
 
 <br/>
 
 ---
-
 ## 🖼️ Certificates Showcase
 
 <div align="center">
