@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:8A2BE2,100:0d1117&height=200&section=header&text=Abegà%20Razafindratelo&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Back-Ops%20Engineer%20%E2%80%94%20Mathematician&descSize=14&descAlignY=74&descColor=888888&stroke=8A2BE2&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:8A2BE2,100:0d1117&height=200&section=header&text=Abegà%20Razafindratelo&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Back-Ops%20Engineer%20%E2%80%94%20Mathematics%20Student&descSize=14&descAlignY=74&descColor=888888&stroke=8A2BE2&strokeWidth=1" width="100%"/>
 
 </div>
 
