@@ -1,0 +1,115 @@
+<svg width="860" height="480" viewBox="0 0 860 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <defs>
+        <style>
+            .bg           { fill: #0d1117; }
+            .divider      { stroke: #21262d; stroke-width: 0.75; }
+            .sec-title    { font-size: 17px; font-weight: 700; fill: #f0f6fc; letter-spacing: -0.3px; }
+            .card         { fill: #161b22; stroke: #30363d; stroke-width: 0.75; }
+            .cat-label    { font-size: 9.5px; font-weight: 700; fill: #484f58; letter-spacing: 0.1em; }
+            .card-name    { font-size: 13px; font-weight: 700; fill: #f0f6fc; }
+            .card-desc    { font-size: 11px; fill: #8b949e; }
+            .footer-text  { font-size: 10px; fill: #484f58; }
+            .accent-bar   { fill: #1d6fa4; opacity: 0.7; }
+            a             { cursor: pointer; }
+        </style>
+    </defs>
+
+    <!-- Background -->
+    <rect width="860" height="480" rx="14" class="bg"/>
+    <!-- Top teal rule -->
+    <rect x="0" y="0" width="860" height="3" rx="14" class="accent-bar"/>
+
+    <!-- Header -->
+    <text x="32" y="48" class="sec-title">Let's Connect</text>
+    <line x1="32" y1="64" x2="828" y2="64" class="divider"/>
+
+    <!-- ── COLLABORATION ── -->
+    <text x="32" y="86" class="cat-label">COLLABORATION</text>
+
+    <!-- Backend -->
+    <rect x="32"  y="94" width="194" height="70" rx="10" class="card"/>
+    <rect x="32"  y="94" width="3"   height="70" rx="2"  fill="#3fb950"/>
+    <rect x="44"  y="109" width="32" height="32" rx="8"  fill="#0d2318" stroke="#238636" stroke-width="0.75"/>
+    <path d="M52 125 l6 0 M55 122 l0 6 M60 119 l4 4 -4 4" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="84" y="121" class="card-name">Backend Development</text>
+    <text x="84" y="136" class="card-desc">APIs, services, architecture</text>
+
+    <!-- Algorithms -->
+    <rect x="238" y="94" width="194" height="70" rx="10" class="card"/>
+    <rect x="238" y="94" width="3"   height="70" rx="2"  fill="#a78bfa"/>
+    <rect x="250" y="109" width="32" height="32" rx="8"  fill="#1e1631" stroke="#7c3aed" stroke-width="0.75"/>
+    <circle cx="266" cy="125" r="5" stroke="#a78bfa" stroke-width="1.5" fill="none"/>
+    <path d="M260 118 l12 0 M260 132 l12 0" stroke="#a78bfa" stroke-width="1.25" stroke-linecap="round" opacity="0.5"/>
+    <text x="290" y="121" class="card-name">Algorithms &amp; Modelling</text>
+    <text x="290" y="136" class="card-desc">Complexity, formal methods</text>
+
+    <!-- Open Source -->
+    <rect x="444" y="94" width="194" height="70" rx="10" class="card"/>
+    <rect x="444" y="94" width="3"   height="70" rx="2"  fill="#58a6ff"/>
+    <rect x="456" y="109" width="32" height="32" rx="8"  fill="#0d1f2d" stroke="#1d6fa4" stroke-width="0.75"/>
+    <path d="M462 134 c0-8 12-12 12-4 0-8 12-4 12 4" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+    <circle cx="472" cy="120" r="2.5" fill="#58a6ff"/>
+    <text x="496" y="121" class="card-name">Open Source</text>
+    <text x="496" y="136" class="card-desc">Contributions welcome</text>
+
+    <!-- Mathematics -->
+    <rect x="650" y="94" width="178" height="70" rx="10" class="card"/>
+    <rect x="650" y="94" width="3"   height="70" rx="2"  fill="#d29922"/>
+    <rect x="662" y="109" width="32" height="32" rx="8"  fill="#1c1208" stroke="#854f0b" stroke-width="0.75"/>
+    <text x="678" y="130" text-anchor="middle" font-size="16" font-weight="700" fill="#d29922">∑</text>
+    <text x="702" y="121" class="card-name">Mathematics</text>
+    <text x="702" y="136" class="card-desc">Applied &amp; formal math</text>
+
+    <!-- ── CONTACT ── -->
+    <line x1="32" y1="182" x2="828" y2="182" class="divider"/>
+    <text x="32" y="202" class="cat-label">CONTACT</text>
+
+    <!-- Email -->
+    <a href="mailto:a.razafindratelo@gmail.com">
+        <rect x="32"  y="210" width="194" height="80" rx="10" class="card"/>
+        <rect x="32"  y="210" width="3"   height="80" rx="2"  fill="#3fb950"/>
+        <rect x="44"  y="226" width="32"  height="32" rx="8"  fill="#0d1a0d" stroke="#238636" stroke-width="0.75"/>
+        <rect x="49" y="233" width="22" height="16" rx="2" stroke="#3fb950" stroke-width="1.25" fill="none"/>
+        <path d="M49 235 l11 8 11-8" stroke="#3fb950" stroke-width="1.25" stroke-linecap="round" fill="none"/>
+        <text x="84" y="236" class="card-name">Email</text>
+        <text x="84" y="251" class="card-desc">a.razafindratelo</text>
+        <text x="84" y="265" class="card-desc">@gmail.com</text>
+    </a>
+
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/abeg%C3%A0-razafindratelo">
+        <rect x="238" y="210" width="194" height="80" rx="10" class="card"/>
+        <rect x="238" y="210" width="3"   height="80" rx="2"  fill="#0a66c2"/>
+        <rect x="250" y="226" width="32"  height="32" rx="8"  fill="#0d1f35" stroke="#0a66c2" stroke-width="0.75"/>
+        <rect x="255" y="231" width="5"  height="16" rx="1" fill="#58a6ff"/>
+        <rect x="255" y="228" width="5"  height="5"  rx="2" fill="#58a6ff"/>
+        <path d="M263 240 c0-3 2-5 5-5 3 0 5 2 5 5 l0 7" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+        <rect x="263" y="231" width="5" height="9" rx="1" fill="#58a6ff" opacity="0"/>
+        <text x="290" y="236" class="card-name">LinkedIn</text>
+        <text x="290" y="251" class="card-desc">Abegà Razafindratelo</text>
+    </a>
+
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/a.razafindratelo/">
+        <rect x="444" y="210" width="194" height="80" rx="10" class="card"/>
+        <rect x="444" y="210" width="3"   height="80" rx="2"  fill="#1877f2"/>
+        <rect x="456" y="226" width="32"  height="32" rx="8"  fill="#0d1835" stroke="#1877f2" stroke-width="0.75"/>
+        <path d="M472 231 l0 4 c-4 0-5 2-5 4 l0 3 5 0 0 11 4 0 0-11 4 0 0-3 -4 0 c0-2 1-4 4-4 l0-4 c-4 0-8 2-8 8" stroke="#58a6ff" stroke-width="1.25" stroke-linecap="round" fill="none"/>
+        <text x="496" y="236" class="card-name">Facebook</text>
+        <text x="496" y="251" class="card-desc">a.razafindratelo</text>
+    </a>
+
+    <!-- GitHub -->
+    <a href="https://github.com/Abega1642">
+        <rect x="650" y="210" width="178" height="80" rx="10" class="card"/>
+        <rect x="650" y="210" width="3"   height="80" rx="2"  fill="#484f58"/>
+        <rect x="662" y="226" width="32"  height="32" rx="8"  fill="#161b22" stroke="#484f58" stroke-width="0.75"/>
+        <path d="M669 253 c0-5 8-8 8-2.5 0-5 8-2.5 8 2.5M678 234 c-3.5 0-6 2.5-6 6 0 2.5 1.5 4.5 4 5.5 l0 2 4 0 0-2 c2.5-1 4-3 4-5.5 0-3.5-2.5-6-6-6z" stroke="#adbac7" stroke-width="1.25" stroke-linecap="round" fill="none"/>
+        <text x="702" y="236" class="card-name">GitHub</text>
+        <text x="702" y="251" class="card-desc">Explore repositories</text>
+    </a>
+
+    <!-- Footer -->
+    <line x1="32" y1="312" x2="828" y2="312" class="divider"/>
+    <text x="430" y="336" text-anchor="middle" class="footer-text">Open to collaboration, research partnerships, and meaningful projects.</text>
+</svg>

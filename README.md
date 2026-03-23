@@ -43,91 +43,23 @@
 
 <br/>
 
-**Technical Certifications**
-
-<div align="center">
-
-[![CodinGame](https://img.shields.io/badge/CodinGame-Java_With_Honors-8A2BE2?style=flat-square&logo=codingame&logoColor=white)](https://www.codingame.com/certification/uNlgJdeGtKeniiiIkyBHKQ)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Java_Skills_Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/60d36284b76b)
-&nbsp;
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-Java_Intermediate-1ABC9C?style=flat-square&logo=sololearn&logoColor=white)](https://www.sololearn.com/certificates/CC-1W24QWTM)
-
-[![StudySection](https://img.shields.io/badge/StudySection-Java_Foundation_83.33%25-FF6B6B?style=flat-square&logo=java&logoColor=white)](https://github.com/Abega1642)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-Pandas_Mastery-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/pandas)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-ML_Intermediate-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/abeg4razafindratelo/intermediate-machine-learning)
-
-[![CodeSignal](https://img.shields.io/badge/CodeSignal-Docker_Expert_(x3)-2496ED?style=flat-square&logo=docker&logoColor=white)](https://drive.google.com/drive/folders/1SNceOnJ24znLNjcHO446qyjo08QkKLYv?usp=drive_link)
-&nbsp;
-[![Codefinity](https://img.shields.io/badge/Codefinity-C%2B%2B_OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://drive.google.com/file/d/1RrlqNXUh9MX6uOTUpWGZQS1B2d1n8dv4/view?usp=drive_link)
-
-</div>
+<img src="assets/certifications.svg" width="100%" alt="Certifications & Distinctions"/>
 
 <br/>
 
-**Competitions & Awards**
+## Competitions & Awards
 
-<div align="center">
-
-[![DevFest 2025](https://img.shields.io/badge/Hackathon_DevFest_2025-2nd_Place-FFD700?style=flat-square&logo=google&logoColor=black)](https://www.linkedin.com/posts/abeg%C3%A0-razafindratelo_devfest-algomada-devfest-activity-7403757196502769664-SldB?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEwz3MIBawkW2UIdU5Joqofv5vwDWWtKxtA&utm_campaign=copy_link)
-&nbsp;
-[![IYMC 2023](https://img.shields.io/badge/IYMC_2023-Silver_Honor_%2B_National_Award-C0C0C0?style=flat-square&logo=academia&logoColor=white)](https://drive.google.com/file/d/1m_WmGCfXViMGUjvEdnsqX3qIVKvQN74L/view?usp=drive_link)
-&nbsp;
-[![IYMC 2022](https://img.shields.io/badge/IYMC_2022-Silver_Honor-C0C0C0?style=flat-square&logo=academia&logoColor=white)](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link)
-
-</div>
+<img src="assets/awards.svg" width="100%" alt="Competitions and Awards"/>
 
 <br/>
 
----
-## 🖼️ Certificates Showcase
+**Sources & Verification**
 
-<div align="center">
-
-### 🇲🇬 National Award of Madagascar, 2023 - International Youth Math Challenge
-<img src="assets/national-award-madagascar.png" alt="National Award Madagascar" width="600"/>
-
-<br/><br/>
-
-### 🥈 Silver Honor – IYMC, 2023 - International Youth Math Challenge
-<img src="assets/iymc-silver-honor.png" alt="IYMC Silver Honor" width="600"/>
-
-</div>
-
----
-
-## 🎓 Academic Distinction
-
-<div align="center">
-
-### 🥇 Valedictorian — Mathematics (2023–2024)
-**University of Antananarivo, Department of Mathematics and Computer Science — _With Distinction_**
-
-<br/>
-
-**Achievement:**  
-In my first year studying Mathematics at the University of Antananarivo, I pursued a second program simultaneously in Computer Science at Haute École d’Informatique. Among ~300 students, I earned the **highest overall grade across both semesters**, being recognized as **Valedictorian with Distinction** (December 2024). This reflects strong academic performance across two rigorous programs.
-
-<br/>
-
-[![Official Announcement](https://img.shields.io/badge/📢-Official_Announcement-00FF00?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aemia.antananarivo/posts/pfbid07CmJeWnDSmaruPQSLXuRuop7E2HvAzgAEo5BBCGKpeRYLFCDRYBs6E25pZQwownCl?rdid=wsoN0ocOBsEPiyjN)
-
-<br/><br/>
-
-### 🎓 Excellence Scholarship — Top Performer in Entrance Exam (Oct 2023)
-**Haute École d’Informatique (HEI)**
-
-**Achievement:**  
-The Computer Science program at Haute École d’Informatique requires a competitive entrance exam. I achieved the **highest score among all candidates**, earning the **Excellence Scholarship**, which covers full tuition for the academic year. This award recognizes exceptional academic potential and top performance in a highly selective process.
-
-<br/>
-
-[![Official Announcement](https://img.shields.io/badge/📢-Official_Announcement-00FF00?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/p/17aVV1DqpV/)
-
-</div>
-
+| | Distinction | Link |
+|---|---|---|
+| DevFest 2025 | 2nd Place — GDG Hackathon | [LinkedIn Announcement](https://www.linkedin.com/posts/abeg%C3%A0-razafindratelo_devfest-algomada-devfest-activity-7403757196502769664-SldB) |
+| IYMC 2023 | Silver Honor + National Award | [Official IYMC Results](https://iymc.info/en/announcement2023) · [Certificate](https://drive.google.com/file/d/1m_WmGCfXViMGUjvEdnsqX3qIVKvQN74L/view?usp=drive_link) |
+| IYMC 2022 | Silver Honor | [Certificate](https://drive.google.com/file/d/1L1MgDJfAx_kYMfAThdNhv75gdkptpX5g/view?usp=drive_link)
 ---
 
 ## 📊 GitHub Analytics
@@ -149,66 +81,88 @@ The Computer Science program at Haute École d’Informatique requires a competi
 <br/>
 
 ---
+## Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
-
-<h2 align="center">🚀 Technical Arsenal 🚀</h2>
+<br/>
 
 <div align="center">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,latex,postgresql" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=spring,maven,cmake,react,next,html,css,tailwind,sklearn" />
-    <br/>
-	<img src="https://skillicons.dev/icons?i=github,git,nodejs,npm,linux,debian,docker,postman,aws" />
-	<br/>
-	<img src="https://skillicons.dev/icons?i=clion,idea,pycharm,vscode,sublime" />
-	</a>
+
+**Languages**
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub>Java</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub>Python</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub>C</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub>C++</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=latex" width="48"/><br/><sub>LaTeX</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/><sub>PostgreSQL</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+**Frameworks & Libraries**
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br/><sub>Spring</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=maven" width="48"/><br/><sub>Maven</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cmake" width="48"/><br/><sub>CMake</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub>HTML</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub>CSS</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/><sub>Scikit-learn</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+**DevOps & Infrastructure**
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub>Git</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=npm" width="48"/><br/><sub>npm</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub>Linux</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=debian" width="48"/><br/><sub>Debian</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub>Docker</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub>Postman</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><sub>AWS</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+**Editors & IDEs**
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=clion" width="48"/><br/><sub>CLion</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br/><sub>IntelliJ IDEA</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br/><sub>PyCharm</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub>VS Code</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sublime" width="48"/><br/><sub>Sublime Text</sub></td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
 ---
+## Philosophy & Inspiration
 
-## 📚 Philosophy & Inspiration
-
-<div align="center">
-
-> *"Wir müssen wissen. Wir werden wissen."*  
-> *"Nothing big is done without pain."*  
-> *"Create yourself."*  
-> *"The best way to predict the future is to invent it." – Alan Kay*
-
-</div>
+<img src="assets/philosophy.svg" width="100%" alt="Philosophy and Inspiration"/>
 
 <br/>
 
----
+## Let's Connect
 
-## 🤝 Let's Collaborate & Connect
-
-<div align="center">
-
-### 🚀 Collaboration Opportunities
-
-[![Backend Projects](https://img.shields.io/badge/🚀-Backend_Development-00FF00?style=for-the-badge&logo=server&logoColor=white)](https://github.com/Abega1642)
-[![Algorithmic Challenges](https://img.shields.io/badge/🧠-Algorithms_&_Modeling-8A2BE2?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/Abega1642)
-[![Open Source](https://img.shields.io/badge/💻-Open_Source-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/Abega1642)
-
-<br/>
-
-### 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.razafindratelo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abegà-razafindratelo)
-[![Facebook](https://img.shields.io/badge/📘-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/a.razafindratelo/)
-
-<br/>
-
-### 🌟 Motto / Inspiration
-
-> *"From abstract mathematics to concrete code – building the future one algorithm at a time."*
-
-[![Explore Repositories](https://img.shields.io/badge/⭐-Explore_My_Repos-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abega1642)
-
-</div>
+<object data="assets/connect.svg" type="image/svg+xml" width="100%"></object>

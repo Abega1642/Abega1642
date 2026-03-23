@@ -1,0 +1,109 @@
+<svg width="860" height="730" viewBox="0 0 860 730" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <defs>
+        <style>
+            .bg { fill: #0d1117; }
+            .card-gold   { fill: #161b22; stroke: #b8860b; stroke-width: 1.25; }
+            .card-silver { fill: #161b22; stroke: #6e7681; stroke-width: 1.0; }
+            .card-purple { fill: #161b22; stroke: #7c3aed; stroke-width: 1.0; }
+            .card-blue   { fill: #161b22; stroke: #1d6fa4; stroke-width: 1.0; }
+            .divider     { stroke: #21262d; stroke-width: 0.75; }
+            .cat-label   { font-size: 9.5px; font-weight: 700; fill: #484f58; letter-spacing: 0.1em; }
+            .h1          { font-size: 17px; font-weight: 700; fill: #f0f6fc; letter-spacing: -0.3px; }
+            .title       { font-size: 13.5px; font-weight: 700; fill: #f0f6fc; }
+            .sub         { font-size: 11.5px; fill: #8b949e; }
+            .body        { font-size: 11px; fill: #6e7681; }
+            .pill-gold   { fill: #271f06; stroke: #b8860b; stroke-width: 0.75; }
+            .pill-silver { fill: #1c1c1c; stroke: #6e7681; stroke-width: 0.75; }
+            .pill-purple { fill: #1e1631; stroke: #7c3aed; stroke-width: 0.75; }
+            .pill-blue   { fill: #0d1f2d; stroke: #1d6fa4; stroke-width: 0.75; }
+            .t-gold   { font-size: 10px; font-weight: 700; fill: #d4a017; }
+            .t-silver { font-size: 10px; font-weight: 700; fill: #adbac7; }
+            .t-purple { font-size: 10px; font-weight: 700; fill: #a78bfa; }
+            .t-blue   { font-size: 10px; font-weight: 700; fill: #58a6ff; }
+            .count    { font-size: 11px; fill: #8b949e; }
+        </style>
+    </defs>
+
+    <rect width="860" height="730" rx="14" class="bg"/>
+    <rect x="0" y="0" width="860" height="3" rx="2" fill="#b8860b" opacity="0.7"/>
+
+    <text x="32" y="46" class="h1">Competitions &amp; Awards</text>
+    <rect x="272" y="31" width="84" height="19" rx="9" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+    <text x="314" y="44" text-anchor="middle" class="count">5 distinctions</text>
+    <line x1="32" y1="62" x2="828" y2="62" class="divider"/>
+
+    <text x="32" y="82" class="cat-label">HACKATHON</text>
+
+    <rect x="32" y="90" width="796" height="78" rx="10" class="card-gold"/>
+    <rect x="32" y="90" width="4" height="78" rx="2" fill="#b8860b"/>
+    <circle cx="68" cy="129" r="17" fill="#1c1608" stroke="#b8860b" stroke-width="1.25"/>
+    <text x="68" y="135" text-anchor="middle" font-size="16" font-weight="700" fill="#b8860b">2</text>
+    <text x="68" y="143" text-anchor="middle" font-size="7" font-weight="700" fill="#7a5700">ND</text>
+    <text x="100" y="112" class="title">DevFest 2025 Hackathon</text>
+    <text x="100" y="128" class="sub">Google Developer Groups · Madagascar · AlgoMada track</text>
+    <text x="100" y="148" class="body">Ranked 2nd place among all competing teams.</text>
+    <rect x="680" y="108" width="134" height="20" rx="10" class="pill-gold"/>
+    <text x="747" y="121" text-anchor="middle" class="t-gold">2nd Place — GDG DevFest</text>
+
+    <line x1="32" y1="184" x2="828" y2="184" class="divider"/>
+    <text x="32" y="202" class="cat-label">INTERNATIONAL MATHEMATICS — IYMC</text>
+
+    <rect x="32" y="210" width="796" height="100" rx="10" class="card-silver"/>
+    <rect x="32" y="210" width="4" height="100" rx="2" fill="#8b949e"/>
+    <circle cx="68" cy="260" r="17" fill="#1a1a1a" stroke="#8b8b8b" stroke-width="1.25"/>
+    <path d="M61 260 l3 3 l8-8" stroke="#adbac7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="100" y="213" width="144" height="16" rx="8" fill="#271f06" stroke="#b8860b" stroke-width="0.5"/>
+    <text x="172" y="224" text-anchor="middle" font-size="9" font-weight="700" fill="#d4a017">National Award + Silver Honor</text>
+    <text x="100" y="246" class="title">IYMC 2023 — International Youth Math Challenge</text>
+    <text x="100" y="261" class="sub">Silver Honor Certificate · National Award of Madagascar</text>
+    <text x="100" y="277" class="body">Awarded the highest national distinction for Madagascar alongside the</text>
+    <text x="100" y="291" class="body">international Silver Honor in the 2023 mathematics competition.</text>
+    <rect x="530" y="213" width="94" height="20" rx="10" class="pill-silver"/>
+    <text x="577" y="226" text-anchor="middle" class="t-silver">Silver Honor</text>
+    <rect x="632" y="213" width="108" height="20" rx="10" class="pill-gold"/>
+    <text x="686" y="226" text-anchor="middle" class="t-gold">National Award</text>
+
+    <rect x="32" y="322" width="796" height="68" rx="10" class="card-silver"/>
+    <rect x="32" y="322" width="4" height="68" rx="2" fill="#6e7681"/>
+    <circle cx="68" cy="356" r="17" fill="#1a1a1a" stroke="#6e7681" stroke-width="1.0"/>
+    <path d="M61 356 l3 3 l8-8" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="100" y="344" class="title">IYMC 2022 — International Youth Math Challenge</text>
+    <text x="100" y="360" class="sub">Silver Honor Certificate</text>
+    <text x="100" y="376" class="body">Recognized with Silver Honor in the international mathematics challenge.</text>
+    <rect x="692" y="335" width="94" height="20" rx="10" class="pill-silver"/>
+    <text x="739" y="348" text-anchor="middle" class="t-silver">Silver Honor</text>
+
+    <line x1="32" y1="406" x2="828" y2="406" class="divider"/>
+    <text x="32" y="424" class="cat-label">ACADEMIC DISTINCTION</text>
+
+    <rect x="32" y="432" width="796" height="112" rx="10" class="card-purple"/>
+    <rect x="32" y="432" width="4" height="112" rx="2" fill="#7c3aed"/>
+    <circle cx="68" cy="488" r="17" fill="#1e1631" stroke="#7c3aed" stroke-width="1.25"/>
+    <text x="68" y="494" text-anchor="middle" font-size="16" font-weight="700" fill="#a78bfa">1</text>
+    <text x="68" y="502" text-anchor="middle" font-size="7" font-weight="700" fill="#5b21b6">ST</text>
+    <rect x="100" y="435" width="74" height="16" rx="8" class="pill-purple"/>
+    <text x="137" y="446" text-anchor="middle" font-size="9.5" font-weight="700" fill="#a78bfa">Valedictorian</text>
+    <text x="100" y="466" class="title">Valedictorian — Mathematics, 2023–2024</text>
+    <text x="100" y="481" class="sub">University of Antananarivo · Dept. of Mathematics &amp; Computer Science</text>
+    <text x="100" y="498" class="body">Ranked 1st among ~300 students across two simultaneous programs</text>
+    <text x="100" y="513" class="body">(Mathematics at University Of Antananarivo) — highest overall grade both semesters.</text>
+    <text x="100" y="530" class="body">Recognized as Valedictorian with Distinction, December 2024.</text>
+    <rect x="618" y="435" width="162" height="20" rx="10" class="pill-purple"/>
+    <text x="699" y="448" text-anchor="middle" class="t-purple">With Distinction · Dec 2024</text>
+
+    <rect x="32" y="556" width="796" height="112" rx="10" class="card-blue"/>
+    <rect x="32" y="556" width="4" height="112" rx="2" fill="#1d6fa4"/>
+    <circle cx="68" cy="612" r="17" fill="#0d1f2d" stroke="#1d6fa4" stroke-width="1.25"/>
+    <path d="M59 613 l3-4 l5 3 l6-7" stroke="#58a6ff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <rect x="100" y="559" width="136" height="16" rx="8" class="pill-blue"/>
+    <text x="168" y="570" text-anchor="middle" font-size="9.5" font-weight="700" fill="#58a6ff">Excellence Scholarship</text>
+    <text x="100" y="590" class="title">Excellence Scholarship — Top of Entrance Exam</text>
+    <text x="100" y="606" class="sub">Haute École d'Informatique · October 2023</text>
+    <text x="100" y="623" class="body">Achieved the highest score among all candidates in the competitive entrance</text>
+    <text x="100" y="638" class="body">examination. Full tuition scholarship awarded for exceptional academic potential.</text>
+    <rect x="638" y="559" width="142" height="20" rx="10" class="pill-blue"/>
+    <text x="709" y="572" text-anchor="middle" class="t-blue">Full Tuition · Oct 2023</text>
+
+    <line x1="32" y1="682" x2="828" y2="682" class="divider"/>
+    <text x="430" y="703" text-anchor="middle" font-size="10" fill="#484f58">All distinctions are verifiable — sources linked below.</text>
+</svg>
