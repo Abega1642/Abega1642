@@ -2,11 +2,11 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!&size=30&center=true&width=600&color=00FF00&duraion=5000&pause=1500&font=Fira%20Code">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!&size=30&center=true&width=600&color=00FF00&duraion=5000&pause=1500&font=Fira%20Code" alt="">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Abega+Razafindratelo&size=30&center=true&width=600&color=00FF00&pause=3000&font=Fira%20Code&repeat=false">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Abega+Razafindratelo&size=30&center=true&width=600&color=00FF00&pause=3000&font=Fira%20Code&repeat=false" alt="">
 </p>
 
 <br/>
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:8A2BE2,100:0d1117&height=200&section=header&text=Abegà%20Razafindratelo&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Back-Ops%20Engineer%20%E2%80%94%20Mathematics%20Student&descSize=14&descAlignY=74&descColor=888888&stroke=8A2BE2&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:8A2BE2,100:0d1117&height=200&section=header&text=Abegà%20Razafindratelo&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Back-Ops%20Engineer%20%E2%80%94%20Mathematics%20Student&descSize=14&descAlignY=74&descColor=888888&stroke=8A2BE2&strokeWidth=1" width="100%" alt=""/>
 
 </div>
 
@@ -91,14 +91,14 @@
 
 <table>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub>Java</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub>Python</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub>C</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub>C++</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/><sub>TypeScript</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=latex" width="48"/><br/><sub>LaTeX</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48" alt=""/><br/><sub>Java</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="48" alt=""/><br/><sub>Python</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48" alt=""/><br/><sub>C</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt=""/><br/><sub>C++</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=javascript" width="48" alt=""/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=typescript" width="48" alt=""/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=latex" width="48" alt=""/><br/><sub>LaTeX</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgresql" width="48" alt=""/><br/><sub>PostgreSQL</sub></td>
   </tr>
 </table>
 
@@ -108,15 +108,16 @@
 
 <table>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br/><sub>Spring</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=maven" width="48"/><br/><sub>Maven</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cmake" width="48"/><br/><sub>CMake</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub>Next.js</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub>HTML</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub>CSS</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub>Tailwind</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/><sub>Scikit-learn</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=spring" width="48" alt=""/><br/><sub>Spring</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=maven" width="48" alt=""/><br/><sub>Maven</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cmake" width="48" alt=""/><br/><sub>CMake</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="48" alt=""/><br/><sub>React</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt=""/><br/><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="48" alt=""/><br/><sub>HTML</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=css" width="48" alt=""/><br/><sub>CSS</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt=""/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sklearn" width="48" alt=""/><br/><sub>Scikit-learn</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=npm" width="48" alt=""/><br/><sub>npm</sub></td>
   </tr>
 </table>
 
@@ -126,15 +127,13 @@
 
 <table>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub>GitHub</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub>Git</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub>Node.js</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=npm" width="48"/><br/><sub>npm</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub>Linux</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=debian" width="48"/><br/><sub>Debian</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub>Docker</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub>Postman</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><sub>AWS</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="48" alt=""/><br/><sub>GitHub</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="48" alt=""/><br/><sub>Git</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="48" alt=""/><br/><sub>Linux</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=debian" width="48" alt=""/><br/><sub>Debian</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="48" alt=""/><br/><sub>Docker</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postman" width="48" alt=""/><br/><sub>Postman</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="48" alt=""/><br/><sub>AWS</sub></td>
   </tr>
 </table>
 
@@ -144,11 +143,11 @@
 
 <table>
   <tr>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=clion" width="48"/><br/><sub>CLion</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br/><sub>IntelliJ IDEA</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br/><sub>PyCharm</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub>VS Code</sub></td>
-    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sublime" width="48"/><br/><sub>Sublime Text</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=clion" width="48" alt=""/><br/><sub>CLion</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=idea" width="48" alt=""/><br/><sub>IntelliJ IDEA</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=pycharm" width="48" alt=""/><br/><sub>PyCharm</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt=""/><br/><sub>VS Code</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=sublime" width="48" alt=""/><br/><sub>Sublime Text</sub></td>
   </tr>
 </table>
 
@@ -165,4 +164,4 @@
 
 ## Let's Connect
 
-<object data="assets/connect.svg" type="image/svg+xml" width="100%"></object>
+<img src="assets/connect.svg" width="100%" alt="Philosophy and Inspiration"/>
